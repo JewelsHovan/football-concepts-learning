@@ -70,10 +70,13 @@ Ecological and representative-learning research treats decisions as emerging fro
 
 Opta defines xG as the probability that a shot is scored based on similar historical shots, using context such as distance, angle, goalkeeper position, pressure, shot type, pattern of play, and previous action. Opta also explicitly warns that higher match xG does not mean a team “should have won,” and that variance is expected.
 
-**Product implication:** retain the toy-model label, compare chances rather than claiming precision, expose important omitted variables, and always connect a number back to the match process that created it.
+**Product implication:** retain the toy-model label, compare chances rather than claiming precision, expose important omitted variables, and always connect a number back to the match process that created it. For PPDA, field tilt, progressive actions, high turnovers, and possession-value models, state the guide’s counting rule because provider definitions and pitch zones differ.
 
-Source:
+Sources:
 - [Opta Analyst — What Is Expected Goals (xG)?](https://theanalyst.com/articles/what-is-expected-goals-xg)
+- [Stats Perform — Opta event definitions](https://www.statsperform.com/opta-event-definitions/)
+- [StatsBomb — Possession value models explained](https://statsbomb.com/soccer-metrics/possession-value-models-explained/)
+- [StatsBomb — Unpacking ball progression](https://statsbomb.com/articles/soccer/unpacking-ball-progression/)
 
 ## Product principles
 
@@ -106,6 +109,9 @@ Source:
 - Formation phase views for 4–3–3, 4–2–3–1, and 3–5–2, preserving player IDs while roles change.
 - A segmented first-five-seconds transition lab comparing counterpressing with recovering shape.
 - Three game-state variants showing how the clock and score change the interpretation of xG and possession.
+- A predict-before-reveal xG range activity with a 100-shot replay.
+- A three-round Sofa Stats Huddle introducing field tilt, box entries, high turnovers, progressive actions, and xA through shared interpretation.
+- Purposeful, user-triggered motion for estimate reveals and comparative data bars, with reduced-motion support.
 
 ### Phase 1 — match-reading loop
 
@@ -119,7 +125,7 @@ Source:
 - [x] Add `Listed / With ball / Without ball` views to the formation explorer.
 - [x] Add a segmented first-five-seconds transition sequence.
 - [ ] Add pressing triggers to the existing pressing workshop.
-- [ ] Ask learners to estimate an xG range before revealing the toy model.
+- [x] Ask learners to estimate an xG range before revealing the toy model.
 - [x] Add game-state variants to the scoreline/statistics exercise.
 
 ### Phase 3 — retrieval and contrast
