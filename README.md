@@ -6,10 +6,14 @@ A friendly, interactive introduction to football concepts for sharing with famil
 
 ## What is included
 
-- An interactive expected-goals (xG) pitch: move the ball and take a probability-based shot.
-- Plain-English explanations of xG, xA, PPDA, and goal difference.
-- A worked example showing why the scoreline does not tell the whole story.
-- Simple lenses for watching possession, pressing, and player roles.
+- A four-picture **Match Reader** that teaches learners to look away from the ball, commit to a read, and then reveal the tactical cue.
+- An interactive expected-goals (xG) pitch plus a categorical chance builder and 100-shot simulation.
+- Pressing, decision-making, offside, and team-identity interactives.
+- A first-five-seconds transition lab and phase-based formation explorer showing how the same players’ jobs change with and without the ball.
+- Plain-English explanations and quizzes for xG, xA, PPDA, possession, and changing game-state context.
+- A one-lens matchday mission and observation checklist saved locally in the browser.
+
+The evidence-informed teaching rationale and development roadmap are documented in [`RESEARCH.md`](RESEARCH.md).
 
 ## Run locally
 
