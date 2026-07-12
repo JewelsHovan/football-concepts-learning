@@ -89,6 +89,17 @@ Sources:
 - [IFAB Law 10 — Determining the Outcome of a Match](https://www.theifab.com/laws/latest/determining-the-outcome-of-a-match/)
 - [IFAB Law 14 — The Penalty Kick](https://www.theifab.com/laws/latest/the-penalty-kick/)
 
+### 9. Make the 2026 tournament structure visible
+
+The first 48-team men’s World Cup adds a Round of 32 and a cross-group comparison for third-place teams. New viewers need to distinguish group points from knockout survival, understand that third place is conditional rather than automatic, and see how the field narrows from 48 teams to the final.
+
+**Product implication:** show the tournament as a tappable route, use a worked four-team table, and require a qualification call before revealing the answer. Keep the lesson durable by explaining format rather than embedding live results.
+
+Sources:
+- [FIFA — World Cup 2026 groups, qualification, and tie-breakers](https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/groups-how-teams-qualify-tie-breakers)
+- [FIFA — World Cup 2026 hosts, cities, dates, and format](https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/fifa-world-cup-2026-hosts-cities-dates-usa-mexico-canada)
+- [FIFA — World Cup 2026 match schedule](https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums)
+
 ## Product principles
 
 1. **Transfer before trivia:** every concept ends with something to watch for in a real match.

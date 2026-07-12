@@ -6,8 +6,9 @@ A friendly, interactive introduction to football concepts for sharing with famil
 
 ## What is included
 
-- A persistent section navigator with all 13 learning stops, current-section highlighting, scroll progress, and a mobile-friendly menu.
+- A persistent section navigator with all 14 learning stops, current-section highlighting, scroll progress, and a mobile-friendly menu.
 - An interactive **Match Clock Decoder** covering regulation, added/stoppage time, extra time, penalty kicks, and penalty shoot-outs.
+- A **FIFA World Cup 2026 Tournament Guide** explaining the 48-team format, group points, best third-place qualification, tie-breakers, and the knockout route to the final.
 - A four-picture **Match Reader** that teaches learners to look away from the ball, commit to a read, and then reveal the tactical cue.
 - An interactive expected-goals (xG) pitch plus a predict-before-reveal chance builder and animated 100-shot simulation.
 - Pressing, decision-making, team-identity interactives, and a draggable offside lab with equivalent tap and keyboard controls.
