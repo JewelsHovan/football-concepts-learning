@@ -8,9 +8,10 @@ A friendly, interactive introduction to football concepts for sharing with famil
 
 - A four-picture **Match Reader** that teaches learners to look away from the ball, commit to a read, and then reveal the tactical cue.
 - An interactive expected-goals (xG) pitch plus a predict-before-reveal chance builder and animated 100-shot simulation.
-- Pressing, decision-making, offside, and team-identity interactives.
+- Pressing, decision-making, team-identity interactives, and a draggable offside lab with equivalent tap and keyboard controls.
 - A first-five-seconds transition lab and phase-based formation explorer showing how the same players’ jobs change with and without the ball.
-- Plain-English explanations for xG, xA, PPDA, xT, field tilt, progressive actions, box entries, and changing game-state context.
+- Expandable stat cards for xG, xA, PPDA, xT, field tilt, progressive actions, and box entries.
+- Animated scoreline contexts showing how the clock and score change the meaning of possession, shots, and xG.
 - A three-round **Sofa Stats Huddle** for family and friends to interpret animated match comparisons together—without timers, scores, or leaderboards.
 - A one-lens matchday mission and observation checklist saved locally in the browser.
 

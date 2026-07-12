@@ -112,6 +112,9 @@ Sources:
 - A predict-before-reveal xG range activity with a 100-shot replay.
 - A three-round Sofa Stats Huddle introducing field tilt, box entries, high turnovers, progressive actions, and xA through shared interpretation.
 - Purposeful, user-triggered motion for estimate reveals and comparative data bars, with reduced-motion support.
+- A draggable offside diagram with snapping, live law feedback, and equivalent tap/arrow-key controls.
+- Expandable stat cards that pair each definition with a concrete example and a better follow-up question.
+- Animated scoreline contexts that explain how game state changes statistical interpretation.
 
 ### Phase 1 — match-reading loop
 
