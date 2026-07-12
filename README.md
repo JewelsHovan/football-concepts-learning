@@ -2,6 +2,8 @@
 
 A friendly, interactive introduction to football concepts for sharing with family and friends.
 
+**Live site:** https://jewelshovan.github.io/football-concepts-learning/
+
 ## What is included
 
 - An interactive expected-goals (xG) pitch: move the ball and take a probability-based shot.
