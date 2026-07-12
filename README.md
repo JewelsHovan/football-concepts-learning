@@ -6,6 +6,7 @@ A friendly, interactive introduction to football concepts for sharing with famil
 
 ## What is included
 
+- A persistent section navigator with all 12 learning stops, current-section highlighting, scroll progress, and a mobile-friendly menu.
 - A four-picture **Match Reader** that teaches learners to look away from the ball, commit to a read, and then reveal the tactical cue.
 - An interactive expected-goals (xG) pitch plus a predict-before-reveal chance builder and animated 100-shot simulation.
 - Pressing, decision-making, team-identity interactives, and a draggable offside lab with equivalent tap and keyboard controls.
