@@ -4,7 +4,7 @@ Research notes and product direction for **The Football Field Guide**.
 
 ## Audience and outcome
 
-**Primary learner:** curious casual fans who know football's basic rules and want to understand tactics, decisions, and statistics while watching a real match.
+**Primary learner:** family, friends, and curious casual fans—from people learning the match structure to viewers ready to understand tactics, decisions, and statistics during a real game.
 
 The product should not optimize for memorizing vocabulary. Its central outcome is **better match observation**: notice a useful cue, form a conditional explanation, predict what may happen next, and revise that explanation after the play unfolds.
 
@@ -77,6 +77,17 @@ Sources:
 - [Stats Perform — Opta event definitions](https://www.statsperform.com/opta-event-definitions/)
 - [StatsBomb — Possession value models explained](https://statsbomb.com/soccer-metrics/possession-value-models-explained/)
 - [StatsBomb — Unpacking ball progression](https://statsbomb.com/articles/soccer/unpacking-ball-progression/)
+
+### 8. Ground later concepts in the match structure
+
+Clock language is easy to confuse: added time continues the current half, extra time creates new periods only when competition rules require a winner, and a penalty kick during play is different from a penalty shoot-out after the match. A short interactive pre-training module gives new viewers the structure needed to understand later references to score, minute, game state, and knockout pressure.
+
+**Product implication:** decode representative clock displays, explain that the public clock is not the official final whistle, and make competition-dependent outcomes explicit rather than implying every draw reaches extra time or penalties.
+
+Sources:
+- [IFAB Law 7 — The Duration of the Match](https://www.theifab.com/laws/latest/the-duration-of-the-match/)
+- [IFAB Law 10 — Determining the Outcome of a Match](https://www.theifab.com/laws/latest/determining-the-outcome-of-a-match/)
+- [IFAB Law 14 — The Penalty Kick](https://www.theifab.com/laws/latest/the-penalty-kick/)
 
 ## Product principles
 
