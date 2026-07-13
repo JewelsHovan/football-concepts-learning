@@ -8,6 +8,7 @@ A friendly, interactive introduction to football concepts for sharing with famil
 
 - A route-first start screen that lets learners choose **Stats**, **Tactics**, or **Match & rules**, then hides unrelated material and shows a sticky stop-by-stop lesson trail.
 - A user-triggered ball-flight animation in the xG pitch, with reduced-motion support.
+- A hands-on **Stat Workbench** for changing PPDA, per-90, and field-tilt inputs while seeing the formula, interpretation, and limits update live.
 - A persistent section navigator with all 14 learning stops, current-section highlighting, scroll progress, and a mobile-friendly menu.
 - An interactive **Match Clock Decoder** covering regulation, added/stoppage time, extra time, penalty kicks, and penalty shoot-outs.
 - A **FIFA World Cup 2026 Tournament Guide** explaining the 48-team format, group points, best third-place qualification, tie-breakers, and the knockout route to the final.
